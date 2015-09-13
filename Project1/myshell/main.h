@@ -1,0 +1,1 @@
+#define MAX_CMD_SIZE 1024
