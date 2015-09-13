@@ -40,6 +40,9 @@ Project 3:
 
 In this project, implemented one File System Tool.
 It is capable to file the below problems of damage in File System:
+
 1. The directory file is damaged
+
 2. The inode of directory is damaged
+
 3. The inode and the directory file are both damaged.
