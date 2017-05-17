@@ -15,3 +15,11 @@ v.Publish: that will allow a publisher to send a message to an interest group.
 vi.Retrieve: that will allow a subscriber to retrieve one message from an interest group.
 
 While a publisher is sending to a topic, no other user can publish to or retrieve from the topic. However, multiple subscribers can be retrieving messages from the same topic at the same time. Here maintained a buffer that can contain 5 messages for each topic. No publisher can send to the topic when the buffer is full.
+
+
+
+[![solarized dualmode](https://github.com/sachinambalkar/MinixOs/blob/master/Project2/DesignDocument_minix-1.jpg)](#features)
+[![solarized dualmode](https://github.com/sachinambalkar/MinixOs/blob/master/Project2/DesignDocument_minix-2.jpg)](#features)
+[![solarized dualmode](https://github.com/sachinambalkar/MinixOs/blob/master/Project2/DesignDocument_minix-3.jpg)](#features)
+[![solarized dualmode](https://github.com/sachinambalkar/MinixOs/blob/master/Project2/DesignDocument_minix-4.jpg)](#features)
+
